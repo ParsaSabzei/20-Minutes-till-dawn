@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "parsa",
+      "password": "ParsaParsa85@@",
+      "securityQuestion": "",
+      "isGuest": false,
+      "score": 104584,
+      "avatar": "Jameson",
+      "totalKillCount": 813,
+      "totalTimeSurvived": 664.0
+    },
+    {
+      "username": "Amir",
+      "password": "Test1234567@",
+      "securityQuestion": "elmi",
+      "isGuest": false,
+      "score": 9500,
+      "avatar": "Custom",
+      "totalKillCount": 102,
+      "totalTimeSurvived": 352.0
+    }
+  ],
+  "settings": {
+    "musicVolume": 5,
+    "backgroundMusicType": "Default",
+    "inputSettings": {
+      "keyUp": 51,
+      "keyDown": 47,
+      "keyLeft": 29,
+      "keyRight": 32,
+      "reload": 46
+    },
+    "sfxOn": true,
+    "autoReloadOn": true,
+    "blackWhiteGame": false,
+    "language": "English"
+  }
+}
